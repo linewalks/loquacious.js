@@ -17,12 +17,12 @@ A random transaction generator used for private blockchain network development u
       "arguments": [
           {
           "parameterName": "sampleParam",
-          "type": "", // pick, range
-          "list" : [ ... ], // if type is pick
-          "ragne" : [ minValue, maxValue ] // if type is range
+          "type": "", // select, range
+          "list" : [ ... ], // if type is select
+          "range" : [ minValue, maxValue ] // if type is range
           }
       ],
-      "limit": 1 // number of transaction will generate
+      "limit": 1 // number of transactions to generate
     }
   ]
 }

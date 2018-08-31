@@ -1,13 +1,13 @@
 {
   "name": "loquacious.js",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "loquacious": "./index.js"
+    "loquacious": "./bin/index.js"
   },
   "repository": {
     "type": "git",
