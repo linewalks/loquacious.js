@@ -1,0 +1,8 @@
+config.json
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules
