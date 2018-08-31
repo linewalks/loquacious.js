@@ -1,0 +1,29 @@
+{
+  "name": "loquacious.js",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "loquacious": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcidl/loquacious.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcidl/loquacious.js/issues"
+  },
+  "homepage": "https://github.com/mcidl/loquacious.js#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.0",
+    "request": "^2.88.0",
+    "web3": "git+https://github.com/ethereum/web3.js.git#newAbiLib"
+  }
+}

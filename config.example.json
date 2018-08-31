@@ -1,0 +1,24 @@
+{
+    "httpProvider": "",
+    "issuerAddress": "",
+    "contractHash": "",
+    "contractABI": [
+    ],
+    "callInstructions": [
+      {
+        "contractName": "",
+        "method": "",
+        "arguments": [
+          {
+            "parameterName": "",
+            "type": "",
+            "list" : [
+              "",
+              ""
+            ]
+          }
+        ],
+        "limit": 1
+      }
+    ]
+  }
